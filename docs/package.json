@@ -1,0 +1,19 @@
+{
+  "name": "contribution-heatmap-spec",
+  "version": "0.0.1",
+  "description": "the draft specifcation for better contributions in scientific publication",
+  "main": "index.js",
+  "authors": {
+    "name": "Nemo Andrea",
+    "email": "nemoandrea@outlook.com"
+  },
+  "repository": "https://github.com/NemoAndrea/contribution-heatmap-spec/contribution-heatmap-spec",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
