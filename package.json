@@ -1,0 +1,27 @@
+{
+  "name": "contribution-heatmap-spec",
+  "version": "1.0.0",
+  "description": "better contributions",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NemoAndrea/contribution-heatmap-spec.git"
+  },
+  "keywords": [
+    "contributions",
+    "publications"
+  ],
+  "author": "Nemo Andrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NemoAndrea/contribution-heatmap-spec/issues"
+  },
+  "homepage": "https://github.com/NemoAndrea/contribution-heatmap-spec#readme",
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  }
+}
