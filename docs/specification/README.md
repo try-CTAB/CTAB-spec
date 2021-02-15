@@ -143,7 +143,7 @@ An example of a `Raw Format` CTAB is given below.
 
 > Those familiar with Markdown will notice this is quite similar to the markdown representation of tables.
 
-But note that the text file below is also perfectly valid, _just not very neat_. If you want to check if your `Raw Format` is up to spec, you can try the online [CTAB Raw Format checker](https://nemoandrea.github.io/better-contributions/#/check-CTAB)
+But note that the text file below is also perfectly valid, _just not very neat_. If you want to check if your `Raw Format` is up to spec, you can try the online [CTAB Raw Format checker](https://try-ctab.github.io/#/check-CTAB)
 
 ```
 |CTABV0.1| N.O.Tarperson|D.Apper|E.X. Ample|T. Esting|R.E. Viewer|
@@ -174,7 +174,7 @@ For more details on the **journal-specific config format**, see the [For Journal
 
 In order to make it as easy as possible for authors to include a Contribution Table in their draft manuscript, a web-tool has been built that allows users to quickly make their own `CTAB`. 
 
-The editor can be tried [here](https://nemoandrea.github.io/better-contributions/editor) or by clicking the **build a table** at the top right.
+The editor can be tried [here](https://try-ctab.github.io/#/editor) or by clicking the **build a table** at the top right.
 
 The editor allows for easy exporting into common formats, and requires no installation.
 

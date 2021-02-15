@@ -11,10 +11,10 @@ cd docs/.vuepress/dist
 
 git init
 git add -A
-git commit -m 'deploy'
+git commit -m 'deploy latest version'
 
 echo '>>> Pushing to remote...'
-git remote add origin https://github.com/NemoAndrea/better-contributions-spec.git
+git remote add origin https://github.com/try-CTAB/spec.git
 git push -u origin master --force
 
 cd -

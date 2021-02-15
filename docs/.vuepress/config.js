@@ -3,8 +3,8 @@ module.exports = {
   description: 'The draft specification for better disclosure of contributions in scientific publications',
   themeConfig: {
     nav: [
-      { text: 'Motivation', link: 'https://nemoandrea.github.io/better-contributions/' },
-      { text: 'Build a table', link: 'https://nemoandrea.github.io/better-contributions/editor' }
+      { text: 'Motivation', link: 'https://try-ctab.github.io/' },
+      { text: 'Build a table', link: 'https://try-ctab.github.io/#/editor' }
     ],
     logo: '/favicon.png',
     sidebar: [
@@ -14,8 +14,8 @@ module.exports = {
     ],
     displayAllHeaders: true, // Default: false
     lastUpdated: 'Last Updated', // string | boolean
-    repo: 'NemoAndrea/contribution-heatmap-spec',
+    repo: 'try-CTAB/spec',
     repoLabel: 'Contribute!',
   },
-  base: '/better-contributions-spec/'
+  base: '/spec/'
 }
