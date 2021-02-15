@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NemoAndrea/contribution-heatmap-spec.git"
+    "url": "git+https://github.com/try-CTAB/CTAB-spec.git"
   },
   "keywords": [
     "contributions",
@@ -18,9 +18,9 @@
   "author": "Nemo Andrea",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NemoAndrea/contribution-heatmap-spec/issues"
+    "url": "https://github.com/try-CTAB/CTAB-spec/issues"
   },
-  "homepage": "https://github.com/NemoAndrea/contribution-heatmap-spec#readme",
+  "homepage": "https://try-ctab.github.io/spec/",
   "devDependencies": {
     "vuepress": "^1.7.1"
   }

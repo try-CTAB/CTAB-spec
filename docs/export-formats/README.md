@@ -233,7 +233,7 @@ An example is shown below. Note that the generated HTML is dynamically generated
  </style>
 ```
 ::: tip Try it yourself
-To make sure you have the latest version of the generated HTML (as the docs may be slightly behind the editor), simply try it yourself! Go to [the web editor](https://nemoandrea.github.io/better-contributions/#/plain-CTAB?version=0.1&cols=E.%20X.%20Ample,T.%20Esting,R.%20E.%20Viewer&rows=manuscript,experiments,feedback&contributions=0,1,2~1,2,1~0,0,1) and have a look.
+To make sure you have the latest version of the generated HTML (as the docs may be slightly behind the editor), simply try it yourself! Go to [the web editor](https://try-ctab.github.io/#/plain-CTAB?version=0.1&cols=E.%20X.%20Ample,T.%20Esting,R.%20E.%20Viewer&rows=manuscript,experiments,feedback&contributions=0,1,2~1,2,1~0,0,1) and have a look.
 :::
 
 Using the stylesheet (CSS) you can quickly tweak the appearance to make it fit better with your design language. Keep in mind that the HTML representation cannot directly be converted to **all** formats. But if you are looking for a screenshot or HTML, then it is the quickest way to personalise your  {{ $frontmatter.table_name }}. 
