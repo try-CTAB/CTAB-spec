@@ -1,5 +1,5 @@
 ---
-table_name: Contribution Heatmap
+table_name: Contribution Table
 ---
 # For Journals
 ## Requirements

@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="svg-CTAB"
+   width="328.59149"
+   height="296.32181"
+   viewBox="-105.82812 -117.96791 328.59149 302.5479"
+   version="1.1"
+   id="svg158"
+   sodipodi:docname="CTAB_anatomy.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="D:\code\contribution-heatmap-spec\docs\specification\CTAB_anatomy.png"
+   inkscape:export-xdpi="971.91632"
+   inkscape:export-ydpi="971.91632">
+  <metadata
+     id="metadata164">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs162" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     id="namedview160"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="1.2568357"
+     inkscape:cx="114.48374"
+     inkscape:cy="179.86249"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg158" />
+  <style
+     id="style2"> .svg-CTAB{ display: inline-block; } .svg-CTAB-level { stroke-width: 4px; stroke: black; } .svg-CTAB-contribution-level-0 { fill: white; } .svg-CTAB-contribution-level-1 { fill: #A0A0A0; } .svg-CTAB-contribution-level-2 { fill: #303030; } .svg-CTAB-version { fill: #DCDCDC; text-anchor: end; alignment-baseline: baseline; } text.svg-CTAB-level-txt { alignment-baseline: middle; stroke-width: 0; } .svg-CTAB-row text.svg-CTAB-level-txt { text-anchor: end; } .CTAB-hidden { fill: white } </style>
+  <g
+     class="CTAB-group"
+     id="g156"
+     transform="translate(10.221175,27.889214)">
+    <g
+       class="svg-CTAB-header"
+       id="g40">
+      <g
+         class="svg-CTAB-row"
+         id="g8">
+        <text
+           transform="translate(-10,-10)"
+           class="svg-CTAB-version"
+           id="text6"
+           style="text-anchor:end;fill:#dcdcdc">CTAB V0.1 <tspan
+   class="CTAB-hidden"
+   id="tspan4"
+   style="fill:#ffffff">|</tspan>
+</text>
+      </g>
+      <g
+         transform="rotate(-70,2.85926,-19.28148)"
+         id="g14">
+        <text
+           class="svg-CTAB-col-text"
+           id="text12">N.O. Tarperson<tspan
+   class="CTAB-hidden"
+   id="tspan10"
+   style="fill:#ffffff">|</tspan>
+</text>
+      </g>
+      <g
+         transform="rotate(-70,22.85926,-47.84444)"
+         id="g20">
+        <text
+           class="svg-CTAB-col-text"
+           id="text18">D. Apper<tspan
+   class="CTAB-hidden"
+   id="tspan16"
+   style="fill:#ffffff">|</tspan>
+</text>
+      </g>
+      <g
+         transform="rotate(-70,42.85926,-76.4074)"
+         id="g26">
+        <text
+           class="svg-CTAB-col-text"
+           id="text24">E. X. Ample<tspan
+   class="CTAB-hidden"
+   id="tspan22"
+   style="fill:#ffffff">|</tspan>
+</text>
+      </g>
+      <g
+         transform="rotate(-70,62.85926,-104.97036)"
+         id="g32">
+        <text
+           class="svg-CTAB-col-text"
+           id="text30">T. Esting<tspan
+   class="CTAB-hidden"
+   id="tspan28"
+   style="fill:#ffffff">|</tspan>
+</text>
+      </g>
+      <g
+         transform="rotate(-70,82.85926,-133.53332)"
+         id="g38">
+        <text
+           class="svg-CTAB-col-text"
+           id="text36">R. E. Viewer<tspan
+   class="CTAB-hidden"
+   id="tspan34"
+   style="fill:#ffffff">|</tspan>
+</text>
+      </g>
+    </g>
+    <g
+       id="g78">
+      <g
+         class="svg-CTAB-row"
+         id="g46">
+        <text
+           transform="translate(-10,20)"
+           class="svg-CTAB-level-txt"
+           id="text44"
+           style="text-anchor:end;stroke-width:0">manuscript <tspan
+   class="CTAB-hidden"
+   id="tspan42"
+   style="fill:#ffffff">|</tspan>
+</text>
+      </g>
+      <g
+         class="svg-CTAB-level svg-CTAB-contribution-level-0"
+         id="g52"
+         style="fill:#ffffff;stroke:#000000;stroke-width:4px">
+        <rect
+           width="40"
+           height="40"
+           class="svg-CTAB-level"
+           id="rect48"
+           x="0"
+           y="0"
+           style="stroke:#000000;stroke-width:4px" />
+        <text
+           transform="translate(20,20)"
+           class="svg-CTAB-level-txt"
+           id="text50"
+           style="stroke-width:0">|</text>
+      </g>
+      <g
+         transform="translate(40)"
+         class="svg-CTAB-level svg-CTAB-contribution-level-2"
+         id="g58"
+         style="fill:#303030;stroke:#000000;stroke-width:4px">
+        <rect
+           width="40"
+           height="40"
+           class="svg-CTAB-level"
+           id="rect54"
+           x="0"
+           y="0"
+           style="stroke:#000000;stroke-width:4px" />
+        <text
+           transform="translate(20,20)"
+           class="svg-CTAB-level-txt"
+           id="text56"
+           style="stroke-width:0">**|</text>
+      </g>
+      <g
+         transform="translate(80)"
+         class="svg-CTAB-level svg-CTAB-contribution-level-0"
+         id="g64"
+         style="fill:#ffffff;stroke:#000000;stroke-width:4px">
+        <rect
+           width="40"
+           height="40"
+           class="svg-CTAB-level"
+           id="rect60"
+           x="0"
+           y="0"
+           style="stroke:#000000;stroke-width:4px" />
+        <text
+           transform="translate(20,20)"
+           class="svg-CTAB-level-txt"
+           id="text62"
+           style="stroke-width:0">|</text>
+      </g>
+      <g
+         transform="translate(120)"
+         class="svg-CTAB-level svg-CTAB-contribution-level-1"
+         id="g70"
+         style="fill:#a0a0a0;stroke:#000000;stroke-width:4px">
+        <rect
+           width="40"
+           height="40"
+           class="svg-CTAB-level"
+           id="rect66"
+           x="0"
+           y="0"
+           style="stroke:#000000;stroke-width:4px" />
+        <text
+           transform="translate(20,20)"
+           class="svg-CTAB-level-txt"
+           id="text68"
+           style="stroke-width:0">*|</text>
+      </g>
+      <g
+         transform="translate(160)"
+         class="svg-CTAB-level svg-CTAB-contribution-level-0"
+         id="g76"
+         style="fill:#ffffff;stroke:#000000;stroke-width:4px">
+        <rect
+           width="40"
+           height="40"
+           class="svg-CTAB-level"
+           id="rect72"
+           x="0"
+           y="0"
+           style="stroke:#000000;stroke-width:4px" />
+        <text
+           transform="translate(20,20)"
+           class="svg-CTAB-level-txt"
+           id="text74"
+           style="stroke-width:0">|</text>
+      </g>
+    </g>
+    <g
+       transform="translate(0,40)"
+       id="g116">
+      <g
+         class="svg-CTAB-row"
+         id="g84">
+        <text
+           transform="translate(-10,20)"
+           class="svg-CTAB-level-txt"
+           id="text82"
+           style="text-anchor:end;stroke-width:0">experiments <tspan
+   class="CTAB-hidden"
+   id="tspan80"
+   style="fill:#ffffff">|</tspan>
+</text>
+      </g>
+      <g
+         class="svg-CTAB-level svg-CTAB-contribution-level-2"
+         id="g90"
+         style="fill:#303030;stroke:#000000;stroke-width:4px">
+        <rect
+           width="40"
+           height="40"
+           class="svg-CTAB-level"
+           id="rect86"
+           x="0"
+           y="0"
+           style="stroke:#000000;stroke-width:4px" />
+        <text
+           transform="translate(20,20)"
+           class="svg-CTAB-level-txt"
+           id="text88"
+           style="stroke-width:0">**|</text>
+      </g>
+      <g
+         transform="translate(40)"
+         class="svg-CTAB-level svg-CTAB-contribution-level-0"
+         id="g96"
+         style="fill:#ffffff;stroke:#000000;stroke-width:4px">
+        <rect
+           width="40"
+           height="40"
+           class="svg-CTAB-level"
+           id="rect92"
+           x="0"
+           y="0"
+           style="stroke:#000000;stroke-width:4px" />
+        <text
+           transform="translate(20,20)"
+           class="svg-CTAB-level-txt"
+           id="text94"
+           style="stroke-width:0">|</text>
+      </g>
+      <g
+         transform="translate(80)"
+         class="svg-CTAB-level svg-CTAB-contribution-level-1"
+         id="g102"
+         style="fill:#a0a0a0;stroke:#000000;stroke-width:4px">
+        <rect
+           width="40"
+           height="40"
+           class="svg-CTAB-level"
+           id="rect98"
+           x="0"
+           y="0"
+           style="stroke:#000000;stroke-width:4px" />
+        <text
+           transform="translate(20,20)"
+           class="svg-CTAB-level-txt"
+           id="text100"
+           style="stroke-width:0">*|</text>
+      </g>
+      <g
+         transform="translate(120)"
+         class="svg-CTAB-level svg-CTAB-contribution-level-2"
+         id="g108"
+         style="fill:#303030;stroke:#000000;stroke-width:4px">
+        <rect
+           width="40"
+           height="40"
+           class="svg-CTAB-level"
+           id="rect104"
+           x="0"
+           y="0"
+           style="stroke:#000000;stroke-width:4px" />
+        <text
+           transform="translate(20,20)"
+           class="svg-CTAB-level-txt"
+           id="text106"
+           style="stroke-width:0">**|</text>
+      </g>
+      <g
+         transform="translate(160)"
+         class="svg-CTAB-level svg-CTAB-contribution-level-0"
+         id="g114"
+         style="fill:#ffffff;stroke:#000000;stroke-width:4px">
+        <rect
+           width="40"
+           height="40"
+           class="svg-CTAB-level"
+           id="rect110"
+           x="0"
+           y="0"
+           style="stroke:#000000;stroke-width:4px" />
+        <text
+           transform="translate(20,20)"
+           class="svg-CTAB-level-txt"
+           id="text112"
+           style="stroke-width:0">|</text>
+      </g>
+    </g>
+    <g
+       transform="translate(0,80)"
+       id="g154">
+      <g
+         class="svg-CTAB-row"
+         id="g122">
+        <text
+           transform="translate(-10,20)"
+           class="svg-CTAB-level-txt"
+           id="text120"
+           style="text-anchor:end;stroke-width:0">feedback <tspan
+   class="CTAB-hidden"
+   id="tspan118"
+   style="fill:#ffffff">|</tspan>
+</text>
+      </g>
+      <g
+         class="svg-CTAB-level svg-CTAB-contribution-level-0"
+         id="g128"
+         style="fill:#ffffff;stroke:#000000;stroke-width:4px">
+        <rect
+           width="40"
+           height="40"
+           class="svg-CTAB-level"
+           id="rect124"
+           x="0"
+           y="0"
+           style="stroke:#000000;stroke-width:4px" />
+        <text
+           transform="translate(20,20)"
+           class="svg-CTAB-level-txt"
+           id="text126"
+           style="stroke-width:0">|</text>
+      </g>
+      <g
+         transform="translate(40)"
+         class="svg-CTAB-level svg-CTAB-contribution-level-2"
+         id="g134"
+         style="fill:#303030;stroke:#000000;stroke-width:4px">
+        <rect
+           width="40"
+           height="40"
+           class="svg-CTAB-level"
+           id="rect130"
+           x="0"
+           y="0"
+           style="stroke:#000000;stroke-width:4px" />
+        <text
+           transform="translate(20,20)"
+           class="svg-CTAB-level-txt"
+           id="text132"
+           style="stroke-width:0">**|</text>
+      </g>
+      <g
+         transform="translate(80)"
+         class="svg-CTAB-level svg-CTAB-contribution-level-2"
+         id="g140"
+         style="fill:#303030;stroke:#000000;stroke-width:4px">
+        <rect
+           width="40"
+           height="40"
+           class="svg-CTAB-level"
+           id="rect136"
+           x="0"
+           y="0"
+           style="stroke:#000000;stroke-width:4px" />
+        <text
+           transform="translate(20,20)"
+           class="svg-CTAB-level-txt"
+           id="text138"
+           style="stroke-width:0">**|</text>
+      </g>
+      <g
+         transform="translate(120)"
+         class="svg-CTAB-level svg-CTAB-contribution-level-1"
+         id="g146"
+         style="fill:#a0a0a0;stroke:#000000;stroke-width:4px">
+        <rect
+           width="40"
+           height="40"
+           class="svg-CTAB-level"
+           id="rect142"
+           x="0"
+           y="0"
+           style="stroke:#000000;stroke-width:4px" />
+        <text
+           transform="translate(20,20)"
+           class="svg-CTAB-level-txt"
+           id="text144"
+           style="stroke-width:0">*|</text>
+      </g>
+      <g
+         transform="translate(160)"
+         class="svg-CTAB-level svg-CTAB-contribution-level-1"
+         id="g152"
+         style="fill:#a0a0a0;stroke:#000000;stroke-width:4px">
+        <rect
+           width="40"
+           height="40"
+           class="svg-CTAB-level"
+           id="rect148"
+           x="0"
+           y="0"
+           style="stroke:#000000;stroke-width:4px" />
+        <text
+           transform="translate(20,20)"
+           class="svg-CTAB-level-txt"
+           id="text150"
+           style="stroke-width:0">*|</text>
+      </g>
+    </g>
+  </g>
+  <rect
+     style="opacity:0.6;fill:none;fill-opacity:1;stroke:#2a7fff;stroke-width:3.06303382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686;paint-order:stroke fill markers"
+     id="rect971"
+     width="111.32392"
+     height="111.00144"
+     x="-106.02905"
+     y="-87.071739" />
+  <rect
+     style="opacity:0.6;fill:none;fill-opacity:1;stroke:#ff2a7f;stroke-width:3.06303358;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686;paint-order:stroke fill markers"
+     id="rect971-2"
+     width="112.94865"
+     height="125.21785"
+     x="-107.6538"
+     y="30.055779" />
+  <rect
+     style="opacity:0.6;fill:none;fill-opacity:1;stroke:#cc00ff;stroke-width:3.06303406;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686;paint-order:stroke fill markers"
+     id="rect971-6"
+     width="212.86974"
+     height="107.34579"
+     x="11.909026"
+     y="-85.243919" />
+  <rect
+     style="opacity:0.6;fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:3.0630343;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686;paint-order:stroke fill markers"
+     id="rect971-6-0"
+     width="210.53856"
+     height="122.82106"
+     x="12.883578"
+     y="31.355719" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot1018"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#297fff;fill-opacity:0.99215686;stroke:none;opacity:1;"
+     transform="matrix(1.0210112,0,0,1.0210112,-71.391512,-70.548081)"><flowRegion
+       id="flowRegion1020"
+       style="fill:#297fff;fill-opacity:0.99215686;"><rect
+         id="rect1022"
+         width="158.37437"
+         height="67.794357"
+         x="-16.034349"
+         y="-52.338203"
+         style="fill:#297fff;fill-opacity:0.99215686;" /></flowRegion><flowPara
+       id="flowPara1024">Meta</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot1018-4"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#cd00ff;fill-opacity:0.99215686;stroke:none"
+     transform="matrix(1.0210112,0,0,1.0210112,88.18838,-69.200477)"><flowRegion
+       id="flowRegion1020-7"
+       style="fill:#cd00ff;fill-opacity:0.99215686"><rect
+         id="rect1022-8"
+         width="158.37437"
+         height="67.794357"
+         x="-16.034349"
+         y="-52.338203"
+         style="fill:#cd00ff;fill-opacity:0.99215686" /></flowRegion><flowPara
+       id="flowPara1024-0">Header</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot1018-4-3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#ffcd00;fill-opacity:0.99215686;stroke:none;stroke-width:1.21264827;opacity:1;"
+     transform="matrix(0.84196813,0,0,0.84196813,78.087701,199.01609)"><flowRegion
+       id="flowRegion1020-7-2"
+       style="fill:#ffcd00;fill-opacity:0.99215686;stroke-width:1.21264827;"><rect
+         id="rect1022-8-0"
+         width="264.14484"
+         height="75.108269"
+         x="-16.034349"
+         y="-52.338203"
+         style="fill:#ffcd00;fill-opacity:0.99215686;stroke-width:1.21264827;" /></flowRegion><flowPara
+       id="flowPara1024-0-0"
+       style="fill:#ffcd00;fill-opacity:0.99215686;stroke-width:1.21264827;">Contributions</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot1018-4-3-1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.78973198px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:0px;word-spacing:0px;fill:#ff297f;fill-opacity:0.64117647;stroke:none;stroke-width:1.13412678;opacity:1;"
+     transform="matrix(0.90026192,0,0,0.90026192,-94.200955,201.22905)"><flowRegion
+       id="flowRegion1020-7-2-7"
+       style="fill:#ff297f;fill-opacity:0.64117647;stroke-width:1.13412678;"><rect
+         id="rect1022-8-0-0"
+         width="264.14484"
+         height="75.108269"
+         x="-16.034349"
+         y="-52.338203"
+         style="fill:#ff297f;fill-opacity:0.64117647;stroke-width:1.13412678;" /></flowRegion><flowPara
+       id="flowPara1024-0-0-7"
+       style="fill:#ff297f;fill-opacity:0.64117647;stroke-width:1.13412678;">Categories</flowPara></flowRoot></svg>
