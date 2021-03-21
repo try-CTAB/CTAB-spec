@@ -44,18 +44,42 @@ We really like to receive feedback on items that we could add to this list! Perh
 
 ## Journal-specific config format
 
-An example can be found below:
+In some cases, you may want to ensure that authors include specific `categories` in their CTAB, or provide them with a solid selection of categories that they can start with. You can achieve this through the `CTAB config string`. 
 
+This is a `JSON` string that users can paste into the editor. 
+
+:::  warning This feature is not stable
+The `CTAB config string` is still very much a work in progress. It is likely it will get more functionality in the future, but for now it only provides a way to template a collection of `categories` (e.g 'experiments', 'STAR-funding', 'data-formatting', 'communication','analysis')
+:::
+
+An example can be found below
+
+```json
+{
+	"configVersion":"0.1",
+	"id":"MyJournalName",
+	"categories":["Experiments", "Theory", "Manuscript", "Coffee"],
+	"required": [0,0,0,1]
+}
 ```
-# CHM V0.1
-```
 
-## Styling a {{ $frontmatter.table_name }}
+The format is split up between **required** and **optional** keys. Optional keys can be left out, but add some functionality when added.
 
-The styling of a {{ $frontmatter.table_name }} is up to the journal, so that it can be made to integrate well with the design language and colour palette that the journal employs.  Font choice and colour choice are entirely up to the journal. 
+**Required** keys
+
+* `configVersion`  -  The version of the `CTAB Config`. 
+* `id`  -  Some kind of identifier. This so one can trace back whose format this is, if the file/string is ever encountered in the wild
+* `categories`  -  The categories you want the users to include. These will be loaded in as a template in the editor. 
+
+**Optional** keys
+
+* `required`  -  A boolean array that indicates whether a category must be included for submission to your journal. By default all categories should be seen as optional.
+
+> Users can use your `CTAB config string` by pasting it into the editor under `Select Template > Config String`
+
+## Styling a CTAB
+
+The styling of a CTAB is up to the journal, so that it can be made to integrate well with the design language and colour palette that the journal employs.  Font choice and colour choice are entirely up to the journal. 
 
 In the event that you wish to change the colours of the `contribution-degrees` (i.e. the squares indicating the degree of contribution), it is recommended that a legend is added somewhere to indicate what each colour corresponds to. 
-
-
-<TODO>add example images of different styled HTML versions of tables</TODO>
 
